@@ -103,8 +103,3 @@ The application allows a user to choose their meals for the day, check the menu 
 * [Picasso](https://github.com/square/picasso)
 
 These are just third party dependencies, the entire list of dependencies is listed in the app's [Gradle](https://github.com/sanchi0204/AAHAR/blob/master/app/build.gradle) file.
-
-## Contributors
-
-* [Sanchi Rastogi](https://github.com/sanchi0204)
-* [Amitabh Sharma](https://github.com/amitabhs30)
